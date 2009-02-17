@@ -1,5 +1,5 @@
 Name:           mingw32-crossreport
-Version:        1
+Version:        6
 Release:        %mkrel 1
 Summary:        Analysis tool to help cross-compilation to Windows
 
