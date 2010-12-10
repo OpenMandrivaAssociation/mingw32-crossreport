@@ -1,6 +1,6 @@
 Name:           mingw32-crossreport
 Version:        6
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        Analysis tool to help cross-compilation to Windows
 
 License:        GPLv2+
