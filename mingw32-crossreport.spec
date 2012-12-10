@@ -75,3 +75,23 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/mingw32-crossreport
 %{_mandir}/man1/mingw32-crossreport.1*
 %{_datadir}/crossreport/
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 6-3mdv2011.0
++ Revision: 620344
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 6-2mdv2010.0
++ Revision: 439812
+- rebuild
+
+* Tue Feb 17 2009 Jérôme Soyer <saispo@mandriva.org> 6-1mdv2009.1
++ Revision: 341529
+- New upstream release
+
+* Wed Feb 11 2009 Jérôme Soyer <saispo@mandriva.org> 1-1mdv2009.1
++ Revision: 339380
+- import mingw32-crossreport
+
+
