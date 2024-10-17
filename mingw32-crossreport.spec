@@ -5,7 +5,7 @@ Summary:        Analysis tool to help cross-compilation to Windows
 
 License:        GPLv2+
 Group:          Development/Other
-URL:            http://fedoraproject.org/wiki/MinGW
+URL:            https://fedoraproject.org/wiki/MinGW
 Source0:        crossreport.pl
 Source1:        README
 Source2:        COPYING
